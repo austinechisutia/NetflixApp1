@@ -1,0 +1,23 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"script\":{"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinechisutia/NetflixApp1.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austinechisutia/NetflixApp1/issues"
+  },
+  "homepage": "https://github.com/austinechisutia/NetflixApp1#readme",
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "nodemon": "^3.1.9"
+  }
+}
