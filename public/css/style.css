@@ -48,6 +48,33 @@ body{
     color: #fff;
     height: 35px;
     padding: 0 10px;
+    margin-left: 10px;
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.join-btn{
+    background: #dd0e15;
+    border-color: #dd0e15;
+}
+
+.main{
+    position: relative;
+    margin-top: 60px;
+    width: 100%;
+    padding: 40px 2.5vw;
+    color: #fff;
+}
+
+.heading{
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.info{
+    width: 50%;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
